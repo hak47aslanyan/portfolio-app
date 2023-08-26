@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.10c363a9.css",
+    "main.js": "/static/js/main.99431579.js",
+    "static/media/user-photo.png": "/static/media/user-photo.62b115d8c4059b11dfff.png",
+    "static/media/todo-app-preview.jpg": "/static/media/todo-app-preview.fac8e42db1911c7b03e6.jpg",
+    "static/media/cat-app.jpg": "/static/media/cat-app.8f233c9f1ecb9b983dbe.jpg",
+    "static/media/letter-game-preview.jpg": "/static/media/letter-game-preview.90df05416c04bf690f70.jpg",
+    "static/media/calc-preview.jpg": "/static/media/calc-preview.ccd1f2641a63b1b05a17.jpg",
+    "static/media/web-site-preview.jpg": "/static/media/web-site-preview.c3e3d98b7f41a80dd598.jpg",
+    "index.html": "/index.html",
+    "main.10c363a9.css.map": "/static/css/main.10c363a9.css.map",
+    "main.99431579.js.map": "/static/js/main.99431579.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.10c363a9.css",
+    "static/js/main.99431579.js"
+  ]
+}
