@@ -5,6 +5,7 @@ import Navbar from '../components/Navbar/Navbar.jsx'
 import Header from '../components/Header/Header.jsx'
 import TechStack from '../components/TechStack/TechStack.jsx'
 import Project from '../components/Project/Project.jsx'
+import Contact from '../components/Contact/Contact.jsx';
 
 function HomePage() {
   AOS.init();
@@ -15,6 +16,7 @@ function HomePage() {
         <Header/>
         <TechStack/>
         <Project/>
+        <Contact/>
       </div>
     </div>
   )

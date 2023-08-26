@@ -1,30 +1,30 @@
 import "./Navbar.css";
 
 import gitHubLogo from "../../images/githublogo.png";
-import twitterLogo from "../../images/twitter.png";
+import facebookLogo from "../../images/facebook_icon.png";
 import linkedInLogo from "../../images/linkedin.png";
 import React from "react";
 
 function Navbar() {
   return (
-    <div>
+    <div id="header">
       <nav data-aos="zoom-in-down" data-aos-duration="1500" className="nav-bar">
         <div className="logo">
-          <h1>Logo</h1>
+          <h1 style={{marginTop: '30px'}}>Hak.dev</h1>
         </div>
         <div>
-          <ul  className="navbar-items">
+          <ul className="navbar-items">
             <li>
-              <a href="/">Home</a>
+              <a href="#header">Home</a>
             </li>
             <li>
-              <a href="/about">About</a>
+              <a href="#techStack">Tech Stack</a>
             </li>
             <li>
-              <a href="/project">Projects</a>
+              <a href="#project">Projects</a>
             </li>
             <li>
-              <a href="/contact">Contact</a>
+              <a href="#contacts">Contact</a>
             </li>
             <ul className="nav-bar__social">
               <li>
@@ -34,7 +34,12 @@ function Navbar() {
               </li>
               <li>
                 <a href="/">
-                  <img src={twitterLogo} alt="Twitter" />
+                  <img src={facebookLogo} alt="Facebook" style = {
+                    {
+                      marginTop: '-2px'
+                    }
+                  }
+                  />
                 </a>
               </li>
               <li>

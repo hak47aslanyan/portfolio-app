@@ -1,8 +1,13 @@
 * {
-    font-family: 'Fira Code';
-    color: white;
+  font-family: "Fira Code";
+  color: white;
+  cursor: none; 
+
+}
+html {
+    scroll-behavior: smooth;
 }
 body {
-    margin: 0;
-    background-color: #191919;
+  margin: 0;
+  background-color: #191919;
 }

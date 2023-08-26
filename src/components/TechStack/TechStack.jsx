@@ -19,7 +19,7 @@ import FIGMA_LOGO from "../../images/figma.png";
 function TechStack() {
 
   return (
-    <div className="tech-body">
+    <div id="techStack" className="tech-body">
       <h1 className="tech-title">My Tech Stack</h1>
       <Typewriter className="tech-text" text="Technologies I’ve been working with recently" delay={150}/> 
       <div className="techs">
