@@ -3,7 +3,7 @@ import "./Contact.css";
 import React from "react";
 
 import gitHubLogo from "../../images/githublogo.png";
-import twitterLogo from "../../images/twitter.png";
+import facebookLogo from "../../images/facebook_icon.png";
 import linkedInLogo from "../../images/linkedin.png";
 function Contact() {
   return (
@@ -20,8 +20,8 @@ function Contact() {
               </a>
             </li>
             <li>
-              <a href="/">
-                <img src={twitterLogo} alt="Twitter" />
+              <a href="https://www.facebook.com/profile.php?id=100010424912503">
+                <img src={facebookLogo} alt="Facebook" />
               </a>
             </li>
             <li>

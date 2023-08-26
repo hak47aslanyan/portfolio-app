@@ -7,7 +7,6 @@ function Portfolio() {
   return (
     <div>
       <HomePage/> 
-
     </div>
   );
 }
