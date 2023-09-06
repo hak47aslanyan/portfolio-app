@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/portfolio-app/static/css/main.10c363a9.css",
+    "main.js": "/portfolio-app/static/js/main.a7112be3.js",
+    "static/media/user-photo.png": "/portfolio-app/static/media/user-photo.62b115d8c4059b11dfff.png",
+    "static/media/todo-app-preview.jpg": "/portfolio-app/static/media/todo-app-preview.fac8e42db1911c7b03e6.jpg",
+    "static/media/cat-app.jpg": "/portfolio-app/static/media/cat-app.8f233c9f1ecb9b983dbe.jpg",
+    "static/media/letter-game-preview.jpg": "/portfolio-app/static/media/letter-game-preview.90df05416c04bf690f70.jpg",
+    "static/media/calc-preview.jpg": "/portfolio-app/static/media/calc-preview.ccd1f2641a63b1b05a17.jpg",
+    "static/media/web-site-preview.jpg": "/portfolio-app/static/media/web-site-preview.c3e3d98b7f41a80dd598.jpg",
+    "index.html": "/portfolio-app/index.html",
+    "main.10c363a9.css.map": "/portfolio-app/static/css/main.10c363a9.css.map",
+    "main.a7112be3.js.map": "/portfolio-app/static/js/main.a7112be3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.10c363a9.css",
+    "static/js/main.a7112be3.js"
+  ]
+}
