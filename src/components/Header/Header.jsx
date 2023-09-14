@@ -4,10 +4,9 @@ import Typewriter from "../Effects/TypeWritter";
 
 import userPhoto from '../../images/user-photo.png'
 
-
 function Header() {
   return (
-    <div className="header-body">
+    <div style={{zIndex: 0}} className="header-body">
       <div data-aos="fade-right"  data-aos-duration="2000" className="header-title">
       <Typewriter text="Hi 👋," delay={100}/>
       <Typewriter text=" My name is Hakob," delay={120}/>

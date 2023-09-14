@@ -1,19 +1,23 @@
 {
   "files": {
-    "main.css": "/portfolio-app/static/css/main.10c363a9.css",
-    "main.js": "/portfolio-app/static/js/main.a7112be3.js",
-    "static/media/user-photo.png": "/portfolio-app/static/media/user-photo.62b115d8c4059b11dfff.png",
-    "static/media/todo-app-preview.jpg": "/portfolio-app/static/media/todo-app-preview.fac8e42db1911c7b03e6.jpg",
-    "static/media/cat-app.jpg": "/portfolio-app/static/media/cat-app.8f233c9f1ecb9b983dbe.jpg",
-    "static/media/letter-game-preview.jpg": "/portfolio-app/static/media/letter-game-preview.90df05416c04bf690f70.jpg",
-    "static/media/calc-preview.jpg": "/portfolio-app/static/media/calc-preview.ccd1f2641a63b1b05a17.jpg",
-    "static/media/web-site-preview.jpg": "/portfolio-app/static/media/web-site-preview.c3e3d98b7f41a80dd598.jpg",
-    "index.html": "/portfolio-app/index.html",
-    "main.10c363a9.css.map": "/portfolio-app/static/css/main.10c363a9.css.map",
-    "main.a7112be3.js.map": "/portfolio-app/static/js/main.a7112be3.js.map"
+    "main.css": "/static/css/main.f3641adf.css",
+    "main.js": "/static/js/main.98b7c98d.js",
+    "static/media/user-photo.png": "/static/media/user-photo.62b115d8c4059b11dfff.png",
+    "static/media/todo-app-preview.jpg": "/static/media/todo-app-preview.fac8e42db1911c7b03e6.jpg",
+    "static/media/cat-app.jpg": "/static/media/cat-app.8f233c9f1ecb9b983dbe.jpg",
+    "static/media/letter-game-preview.jpg": "/static/media/letter-game-preview.90df05416c04bf690f70.jpg",
+    "static/media/calc-preview.jpg": "/static/media/calc-preview.ccd1f2641a63b1b05a17.jpg",
+    "static/media/web-site-preview.jpg": "/static/media/web-site-preview.c3e3d98b7f41a80dd598.jpg",
+    "static/media/facebook_icon.png": "/static/media/facebook_icon.77eba19656f5ce51d86f.png",
+    "static/media/blob1.svg": "/static/media/blob1.24738e208cece8c7eb3c3cfbbb6fd5aa.svg",
+    "static/media/blob2.svg": "/static/media/blob2.34d7e891d0ea76984124db4faf59a796.svg",
+    "static/media/blob.svg": "/static/media/blob.7099419cf2b2b86ba831a3610200f560.svg",
+    "index.html": "/index.html",
+    "main.f3641adf.css.map": "/static/css/main.f3641adf.css.map",
+    "main.98b7c98d.js.map": "/static/js/main.98b7c98d.js.map"
   },
   "entrypoints": [
-    "static/css/main.10c363a9.css",
-    "static/js/main.a7112be3.js"
+    "static/css/main.f3641adf.css",
+    "static/js/main.98b7c98d.js"
   ]
 }

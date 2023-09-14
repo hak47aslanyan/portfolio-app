@@ -9,7 +9,7 @@ function Contact() {
   return (
     <div id="contacts" className="contact-body">
       <div className="contact-container">
-        <h2>Hak.dev</h2>
+        <h2 style={{ marginTop: "40px" }}>Hak.dev</h2>
         <div className="contact-items">
           <a href="tel:+37477724731">+374 (77) 72-47-31</a>
           <a href="mailto:hak.aslanyan47@gmail.com">hak.aslanyan47@gmail.com</a>
@@ -25,7 +25,7 @@ function Contact() {
               </a>
             </li>
             <li>
-              <a href="/">
+              <a href="https://www.linkedin.com/in/hak-aslanyan-b462a91a9">
                 <img src={linkedInLogo} alt="LinkedIN" />
               </a>
             </li>

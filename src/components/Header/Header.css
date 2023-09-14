@@ -2,6 +2,8 @@
     margin-top: -50px;
     font-size: 50px;
     font-weight: bold;
+    z-index: -1;
+    position: relative;
 }
 
 .header-body{
@@ -13,4 +15,21 @@
 
 .header-image{
     margin-top: -100px;
+}
+
+@media screen and (max-width: 1280px) {
+    .header-body {
+        display: flex;
+        flex-direction: column;
+    }
+    .header-title {
+        margin-bottom: 200px;
+        width: 100%;
+    }
+    .header-title p {
+        width: 100%;
+    }
+    .header-image{
+        text-align: center;
+    }
 }
