@@ -36,7 +36,7 @@ function Navbar() {
                 <a href="/">
                   <img src={facebookLogo} alt="Facebook" style = {
                     {
-                      marginTop: '-2px'
+                     width: '30px',
                     }
                   }
                   />

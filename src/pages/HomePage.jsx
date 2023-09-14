@@ -7,7 +7,14 @@ import TechStack from '../components/TechStack/TechStack.jsx'
 import Project from '../components/Project/Project.jsx'
 import Contact from '../components/Contact/Contact.jsx';
 
+import { FaAnglesUp } from "react-icons/fa6";
+
 function HomePage() {
+
+  const handleScroll = () => {
+    window.scrollTo(0, 0);
+  }
+
   AOS.init();
   return (
     <div>
@@ -18,6 +25,17 @@ function HomePage() {
         <Project/>
         <Contact/>
       </div>
+      <FaAnglesUp onClick={handleScroll} data-aos="zoom-in-down"  style={{
+        position: 'fixed',
+        bottom: '50px',
+        right: '50px',
+        background: '#f3f3f3f3',
+        width: '20px',
+        height: '20px',
+        borderRadius: '50%',
+        padding: '10px',
+        cursor: 'pointer'
+      }}/>
     </div>
   )
 }

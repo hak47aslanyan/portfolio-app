@@ -1,28 +1,28 @@
 .tech-body {
   text-align: center;
-  margin-top: 250px;
-  padding-top: 50px;
+  margin-top: 200px;
   margin-bottom: 150px;
+  padding-top: 120px;
 }
-
 
 .tech-title {
   text-align: center;
   font-size: 40px;
-  color: #cccccc;
+  color: black;
 }
 
 .tech-text {
   text-align: center;
   font-size: 20px;
-  color: #a7a7a7;
+  color: Black;
   margin-top: 20px;
   margin-bottom: 100px;
 }
 
 .techs {
-  margin-top: -220px;
+  margin-top: -300px;
   display: flex;
   width: 100%;
   justify-content: space-between;
 }
+
